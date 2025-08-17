@@ -1,1 +1,1 @@
-# MNIST_ML
+# MNIST
